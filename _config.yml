@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : Awesome Web
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Awesome Web Description
 
 
 ## => Language and Timezone
@@ -38,7 +38,7 @@ author:
   name      : cube
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : Awesome person.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
